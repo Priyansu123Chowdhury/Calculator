@@ -1,10 +1,15 @@
 .ButtonContainer{
   display: flex;
 justify-content: center;
+
 flex-wrap: wrap;
 }
 .Button{
   width: 45px;
   height: 45px;
   margin: 3px;
+  color: whitesmoke;
+  background-color: rgba(29, 28, 28, 0.895);
+  border-radius: 12px;
+
 }
